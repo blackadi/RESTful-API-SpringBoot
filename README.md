@@ -18,7 +18,7 @@ What you need to get started:
 1. At the root level of this repository, run
 
    ```
-   mvn install
+   $ mvn install
    ```
 
 2. Navigate to the _target_ directory, and execute the `.jar` file inside.
