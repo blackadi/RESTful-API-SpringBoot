@@ -1,4 +1,6 @@
-# Startup Guide - RESTful API using Java spring
+![BlackAdi Banner](https://png.pngtree.com/thumb_back/fw800/back_our/20190622/ourmid/pngtree-chinese-style-ink-dragon-banner-image_210265.jpg)
+
+# Startup Guide - RESTful API using Java spring ♨️
 
 This is a simple project for utilizing RESTful web service with spring framework.
 
@@ -13,11 +15,19 @@ What you need to get started:
 
 ### Build and run this application using command line tools
 
-1. At the root level of this repository, run `mvn install`.
+1. At the root level of this repository, run
+
+   ```
+   mvn install
+   ```
 
 2. Navigate to the _target_ directory, and execute the `.jar` file inside.
 
-3. execute by running `java -jar <JAR_FILE_NAME>.jar`.
+3. Finally, execute by running
+
+   ```
+   $ java -jar <JAR_FILE_NAME>.jar
+   ```
 
 4. Open a web browser and nagivate to this URL `http://localhost:8080/users`
 
@@ -42,3 +52,7 @@ The following guides illustrate how to use some features concretely:
 - [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 - [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 - [Building a RESTful Web Service with Spring Boot Actuator](https://spring.io/guides/gs/actuator-service/)
+
+```
+
+```
